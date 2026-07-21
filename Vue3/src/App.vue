@@ -36,7 +36,7 @@ export default {
   data() {
     return {
       serviceUrl:
-        'https://ej2services.syncfusion.com/production/web-services/api/documenteditor/',
+        'https://document.syncfusion.com/web-services/docx-editor/api/documenteditor/',
       documentName: 'Getting Started',
       documentTitle: 'Untitled Document',
       iconStyle:
